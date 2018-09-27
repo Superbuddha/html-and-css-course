@@ -11,3 +11,10 @@ p.yellow{color:#ffff00;}
 p.green{color:#00ff00;} */
 
 p{font-size: 1.2em;}#yellow{color:#ffff00;}#green{color:#00ff00;}
+
+.yellow {color: #ffff00;}
+.dinosaurPicture{background-image: url('dinosaur.jpg');}
+.largeFont{font-size: 2em;}444
+
+section	{width: 50vw; height: 50vh;}
+p	{font-size: 1em; margin: 1em 2em 1em 2em;}
