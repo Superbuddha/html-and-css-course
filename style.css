@@ -1,2 +1,7 @@
-body { color: red;}
-p a { color: blue;}
+/* body { color: red;}
+p a { color: blue;} */
+
+body {
+  font-family: 'Arimo', sans-serif;
+  background-color: #f9f9f9;
+}
